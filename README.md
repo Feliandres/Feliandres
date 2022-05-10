@@ -1,16 +1,21 @@
-### Hi there 👋
+# ***¡ Bienvenido a mi perfil 😃!***
 
-<!--
-**Feliandres/Feliandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ## Mi nombre es **FELIPE PAZMIÑO** 
+- 🏦 Estudiante de la poderosa *EPN*
+- 🔞 Tengo 19 años
+- 🖥 Estudio la carrera de Desarrollo de Software
 
-Here are some ideas to get you started:
+## ***Conocimientos***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de programacion**
+    -
+    - C++
+    - HTML
+    - Python
+    - CSS
+
+### ***Sobre Mi***
+
+- Soy proactivo
+- Puedo enfrentar situaciones de estrés
+- Soy sociable
