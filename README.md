@@ -13,6 +13,8 @@
     - HTML
     - Python
     - CSS
+    - Java
+    - My SQL
 
 ### ***Sobre Mi***
 
