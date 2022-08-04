@@ -2,7 +2,7 @@
 
 - ## Mi nombre es **FELIPE PAZMIÑO** 
 - 🏦 Estudiante de la poderosa *EPN*
-- 🔞 Tengo 19 años
+- 🔞 Tengo 20 años
 - 🖥 Estudio la carrera de Desarrollo de Software
 
 ## ***Conocimientos***
