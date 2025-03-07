@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://source.unsplash.com/1600x400/?data" width="800"/>
+  <img decoding="async" src="[https://source.unsplash.com/1600x400/?data](https://www.freepik.com/free-photo/man-using-laptop-night-top-view-web-banner-with-copy-space_181476668.htm#fromView=keyword&page=1&position=5&uuid=b06c24cc-8c04-4c88-8274-807d8367c328&query=Github+Cover)" width="800"/>
 </div>
 
 <div id="badges" align="center">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pazmino/)
 
-Te presento una página web que he desarrollado: 👉 [![](https://img.shields.io/badge/Chasqi.io-FF5733?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://chasqi.io/)
+Te presento mi portafolio web: 👉 [![](https://img.shields.io/badge/Chasqi.io-FF5733?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://portafolio-nu-eight-48.vercel.app/)
   
 </div>
 
@@ -21,13 +21,11 @@ Te presento una página web que he desarrollado: 👉 [![](https://img.shields.i
 
 Soy analista de datos apasionado por transformar números en insights significativos <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-:telescope: Actualmente, trabajo en el análisis y visualización de datos, ayudando a las empresas a tomar decisiones basadas en información precisa.
-
 :seedling: Dedico tiempo a mejorar mis habilidades en SQL, Python y herramientas de visualización, siempre en búsqueda de nuevas formas de optimizar procesos.
 
 :heartbeat: Me entusiasma descubrir y aplicar técnicas innovadoras para automatizar tareas y analizar datos de manera efectiva.
 
-:mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pazmino/)
+:mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/felipe-pazmiño-146742162)
 </div>
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
