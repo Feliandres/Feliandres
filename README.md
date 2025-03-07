@@ -4,9 +4,9 @@
 
 <div id="badges" align="center">
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pazmino/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-pazmiño-146742162)
 
-Te presento mi portafolio web: 👉 [![](https://img.shields.io/badge/Chasqi.io-FF5733?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://portafolio-nu-eight-48.vercel.app/)
+Te presento mi portafolio web: 👉 [![](https://img.shields.io/badge/Portafolio-FF5733?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://portafolio-nu-eight-48.vercel.app/)
   
 </div>
 
